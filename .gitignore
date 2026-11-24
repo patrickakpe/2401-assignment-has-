@@ -1,0 +1,6 @@
+*.o
+hunt
+tester
+test_bldg
+rec-*.bin
+.DS_Store

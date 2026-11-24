@@ -1,0 +1,14 @@
+Building: 13 rooms, entry: Van
+[0] Van -> Hallway
+[1] Hallway -> Van, Master Bedroom, Boy's Bedroom, Bathroom, Basement, Kitchen
+[2] Master Bedroom -> Hallway
+[3] Boy's Bedroom -> Hallway
+[4] Bathroom -> Hallway
+[5] Basement -> Hallway, Basement Hallway
+[6] Basement Hallway -> Basement, Right Storage Room, Left Storage Room
+[7] Right Storage Room -> Basement Hallway
+[8] Left Storage Room -> Basement Hallway
+[9] Kitchen -> Hallway, Living Room, Garage
+[10] Living Room -> Kitchen
+[11] Garage -> Kitchen, Utility Room
+[12] Utility Room -> Garage

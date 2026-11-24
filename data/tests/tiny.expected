@@ -1,0 +1,5 @@
+Building: 4 rooms, entry: Entry
+[0] Entry -> Parlour, Kitchen
+[1] Parlour -> Entry, Kitchen
+[2] Kitchen -> Entry, Parlour, Cellar
+[3] Cellar -> Kitchen
